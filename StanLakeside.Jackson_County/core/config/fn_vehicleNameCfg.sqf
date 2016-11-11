@@ -78,7 +78,11 @@ _vehicles =
 	["kev_cvpi_correction_lb_91","91-CVPI-CO-LB"],
 	["kev_cvpi_correction_lb_92","92-CVPI-CO-LB"],
 	["kev_taurus_co_lb_90","90-FPI-LB"],
-	
+	["Taurus_501","501-Ford Taurus LB"],
+	["Taurus_502","502-Ford Taurus LB"],
+	["Taurus_503","503-Ford Taurus LB"],
+	["Taurus_504","504-Ford Taurus LB"],
+	["Taurus_400","400-Ford Taurus LB AIAD"],
 	//Edward
 	
 	["cg_evopol1","[PD][E] Mitsubishi Evo"],
