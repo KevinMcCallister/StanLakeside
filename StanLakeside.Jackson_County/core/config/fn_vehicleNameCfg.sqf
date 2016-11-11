@@ -100,6 +100,11 @@ _vehicles =
 	["burnes_foxhound_w","[PD][D] Foxhound"],
 	["cg_evoSERT1","39-Evo SERT"],
 	["charger_sert","37-Charger SERT"],
+	["HummerSERT_810","810-Hummer H1 SERT"],
+	["LandRoverSERT_811","811-Range Rover SERT"],
+	["suburban_829_sert","829-Chevrolet Suburban SERT"],
+	["suburban_830_sert","829-Chevrolet Suburban SERT"],
+	["taurus_899_sert","899-Ford Taurus SERT"],
 	
 	//Pozostale
 	
