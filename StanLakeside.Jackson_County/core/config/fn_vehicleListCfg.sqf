@@ -1229,11 +1229,17 @@ switch (_shop) do
 			["ivory_evox_slicktop",250000],
 			["DAR_ExplorerPolice",200000],
 			["cg_ducati_pol_reg",50000],
+			["Taurus_501",100000],
+			["Taurus_502",100000],
+			["Taurus_503",100000],
+			["Taurus_504",100000],
 			//DOC
 			["kev_taurus_co_lb_90",100000],
 			["kev_cvpi_correction_lb_91",100000],
 			["kev_cvpi_correction_lb_92",100000],
 			["A3L_jailBus",50000],
+			//AIAD
+			["Taurus_400",100000],
 			//DTU
 			["ivory_wrx_unmarked",200000],
 			["ivory_m3_unmarked",200000],
